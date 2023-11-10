@@ -1,0 +1,18 @@
+{
+  "name": "riko-nodejs",
+  "version": "1.0.0",
+  "description": "cuyuniversity backend",
+  "main": "index.js",
+  "scripts": {
+    "nyala": "nodemon index.js"
+  },
+  "keywords": [
+    "rikoNodeJS"
+  ],
+  "author": "rikoprimanto",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "rupiah-format": "^1.0.0"
+  }
+}
